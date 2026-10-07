@@ -1,0 +1,5 @@
+{
+  "_note": "GENERATED FILE — protected by a PreToolUse hook. Edit the generator, not this file.",
+  "version": 3,
+  "fields": ["id", "name", "email"]
+}

@@ -1,0 +1,6 @@
+.claude/logs/
+.claude/stop-gate.disabled
+__pycache__/
+*.pyc
+bin/
+obj/
