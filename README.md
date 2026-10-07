@@ -1,13 +1,5 @@
 # Claude Code Hooks — Demo Repo
 
-A self-contained playground for a 30–60 minute training session on Claude Code
-hooks: what they are, how the lifecycle works, and the use cases that matter.
-
-**The hooks are C# file-based apps** (.NET 10): every hook is a single `.cs`
-file, published once to a standalone native executable. For a .NET audience
-there is nothing to translate — they read the hook source in their own
-language, and the repo has zero dependency on bash, `jq`, or Python at runtime.
-
 ## Requirements
 
 - .NET 10 SDK (`dotnet --version` reports `10.x`)
